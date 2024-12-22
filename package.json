@@ -3,7 +3,7 @@
   "description": "Simple GraphQL server built with GraphQL Yoga and Fastify",
   "private": true,
   "version": "0.1.0",
-  "packageManager": "yarn@4.0.0-rc.9",
+  "packageManager": "yarn@4.5.3",
   "engines": {
     "node": "^12.20.0 || ^14.13.1 || >=16.0.0"
   },
