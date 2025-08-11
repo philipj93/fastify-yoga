@@ -1646,12 +1646,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:18.19.68":
-  version: 18.19.68
-  resolution: "@types/node@npm:18.19.68"
+"@types/node@npm:18.19.122":
+  version: 18.19.122
+  resolution: "@types/node@npm:18.19.122"
   dependencies:
     undici-types: "npm:~5.26.4"
-  checksum: 8c7f01be218c6e3c1e643173662af27e9a2b568f36c0fe83e4295cf7674fe2a0abb4a1c5d7c7abd3345b9114581387dfd3f14b6d0338daebdce9273cd7ba59ab
+  checksum: 1fa545ff27866bd4e39c96e28c622cc354fe4fff0594a39e138eca96e706a30eba6f5cd7a49f13d9223dd93bb189ae9125fdab6604a8c4badade337b2d00d900
   languageName: node
   linkType: hard
 
@@ -4407,7 +4407,7 @@ __metadata:
     "@pothos/plugin-relay": "npm:3.46.1"
     "@prisma/client": "npm:4.16.2"
     "@types/eslint": "npm:8.56.12"
-    "@types/node": "npm:18.19.68"
+    "@types/node": "npm:18.19.122"
     "@types/pino-datadog": "npm:2.0.3"
     "@types/supertest": "npm:2.0.16"
     "@typescript-eslint/eslint-plugin": "npm:5.62.0"
