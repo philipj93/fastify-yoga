@@ -1768,13 +1768,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/yoga-layout@npm:1.9.2":
-  version: 1.9.2
-  resolution: "@types/yoga-layout@npm:1.9.2"
-  checksum: 9f2a8618afe3e2e18e76eeaa4ec7d09a85f01f071231f8ff21388d851f940dd7ae5867a5f9aef29eafe44c47453a328d3c718fff1451ab62266450b415e43150
-  languageName: node
-  linkType: hard
-
 "@typescript-eslint/eslint-plugin@npm:5.62.0":
   version: 5.62.0
   resolution: "@typescript-eslint/eslint-plugin@npm:5.62.0"
@@ -4811,7 +4804,7 @@ __metadata:
     prisma: "npm:4.16.2"
     prisma-repl: "npm:1.4.0"
     supertest: "npm:6.3.3"
-    tasuku: "npm:2.0.1"
+    tasuku: "npm:2.0.2"
     ts-node: "npm:10.9.2"
     tsconfig-paths: "npm:4.2.0"
     tsup: "npm:6.7.0"
@@ -9454,12 +9447,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"tasuku@npm:2.0.1":
-  version: 2.0.1
-  resolution: "tasuku@npm:2.0.1"
-  dependencies:
-    yoga-layout-prebuilt: "npm:1.10.0"
-  checksum: 0c28c9c9b836826d2858b92d69a2d5125c89cacd1f856159dad567fdbdc85b21e6fc2876dfce65dc698b47791bc8c553687eaab922355b9c331875786b86e7fc
+"tasuku@npm:2.0.2":
+  version: 2.0.2
+  resolution: "tasuku@npm:2.0.2"
+  checksum: d9670166efc93d0f9848673fe6a278538e64b489b65fd133adfc48f73c876417d2a398809a2c164c2839866ae8c6229449d28979e59ccde155b0dc8fb285fd04
   languageName: node
   linkType: hard
 
@@ -10797,14 +10788,5 @@ __metadata:
   version: 1.0.0
   resolution: "yocto-queue@npm:1.0.0"
   checksum: 856117aa15cf5103d2a2fb173f0ab4acb12b4b4d0ed3ab249fdbbf612e55d1cadfd27a6110940e24746fb0a78cf640b522cc8bca76f30a3b00b66e90cf82abe0
-  languageName: node
-  linkType: hard
-
-"yoga-layout-prebuilt@npm:1.10.0":
-  version: 1.10.0
-  resolution: "yoga-layout-prebuilt@npm:1.10.0"
-  dependencies:
-    "@types/yoga-layout": "npm:1.9.2"
-  checksum: e83b6b7078faf4d0472461b53e92bf9cae655de3d896aee5f79b5ba5a960e507bbf8e671b261db13137bf18711686969f19fd1d9c4669beb1d70754b83c5879d
   languageName: node
   linkType: hard
