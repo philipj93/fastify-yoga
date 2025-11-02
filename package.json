@@ -89,7 +89,7 @@
     "prisma": "4.16.2",
     "prisma-repl": "1.4.0",
     "supertest": "6.3.3",
-    "tasuku": "2.0.1",
+    "tasuku": "2.0.2",
     "ts-node": "10.9.2",
     "tsconfig-paths": "4.2.0",
     "tsup": "6.7.0",
