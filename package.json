@@ -52,7 +52,7 @@
     "env-schema": "5.2.1",
     "fastify": "4.29.1",
     "graphql": "16.12.0",
-    "graphql-scalars": "1.24.2",
+    "graphql-scalars": "1.25.0",
     "pino": "8.21.0",
     "pino-datadog": "2.0.2",
     "typescript": "4.9.5"
