@@ -4804,7 +4804,7 @@ __metadata:
     prisma: "npm:4.16.2"
     prisma-repl: "npm:1.4.0"
     supertest: "npm:6.3.3"
-    tasuku: "npm:2.0.2"
+    tasuku: "npm:2.0.4"
     ts-node: "npm:10.9.2"
     tsconfig-paths: "npm:4.2.0"
     tsup: "npm:6.7.0"
@@ -9447,10 +9447,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"tasuku@npm:2.0.2":
-  version: 2.0.2
-  resolution: "tasuku@npm:2.0.2"
-  checksum: d9670166efc93d0f9848673fe6a278538e64b489b65fd133adfc48f73c876417d2a398809a2c164c2839866ae8c6229449d28979e59ccde155b0dc8fb285fd04
+"tasuku@npm:2.0.4":
+  version: 2.0.4
+  resolution: "tasuku@npm:2.0.4"
+  checksum: e3b64ce286d7a01e94e334086033fab84cbcc07d202d3d345b88902caa0df5bd30c7dc4392d789bf6f6eb9f256595581b3d609042ef41df69c0d47a23d1c7082
   languageName: node
   linkType: hard
 
